@@ -6,7 +6,7 @@ a:hover {
   color: #ffe459 !important;
   transition: color 0.3s;
 }
-.btn:hover {
+h4 .btn:hover {
   background: #ffe459;
   color: #000 !important;
   transition: background color 0.3s;
