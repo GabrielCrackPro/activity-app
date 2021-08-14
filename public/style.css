@@ -1,0 +1,28 @@
+* {
+  font-family: "Oswald", sans-serif;
+}
+.nav-link:hover,
+a:hover {
+  color: #ffe459 !important;
+  transition: color 0.3s;
+}
+.btn:hover {
+  background: #ffe459;
+  color: #000 !important;
+  transition: background color 0.3s;
+}
+.activity-bg {
+  background: #f43b86;
+}
+.activity-color {
+  color: #f43b86;
+}
+.activity-border {
+  border-bottom: 1px solid #f43b86;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
